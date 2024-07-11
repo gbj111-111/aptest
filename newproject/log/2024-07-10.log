@@ -1,0 +1,32 @@
+[2024-07-10 21:13:01,514][rest_client.py 45][INFO]: 接口请求的地址>>>http://winceshi.yunlvkeji.xyz/jsp/admin/login/doLogin.jsp
+[2024-07-10 21:13:01,515][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2024-07-10 21:13:01,515][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "enterpriseId": 13098,
+  "userName": "guobingjie",
+  "password": "guobingjie"
+}
+[2024-07-10 21:22:15,516][rest_client.py 45][INFO]: 接口请求的地址>>>http://winceshi.yunlvkeji.xyz/jsp/admin/login/doLogin.jsp
+[2024-07-10 21:22:15,517][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2024-07-10 21:22:15,518][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "enterpriseId": 13098,
+  "userName": "guobingjie",
+  "password": "guobingjie"
+}
+[2024-07-10 21:22:40,729][rest_client.py 45][INFO]: 接口请求的地址>>>http://winceshi.yunlvkeji.xyz/jsp/admin/login/doLogin.jsp
+[2024-07-10 21:22:40,729][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2024-07-10 21:22:40,730][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "enterpriseId": 13098,
+  "userName": "guobingjie",
+  "password": "guobingjie"
+}
+[2024-07-10 21:23:41,910][rest_client.py 45][INFO]: 接口请求的地址>>>http://winceshi.yunlvkeji.xyz/jsp/admin/login/doLogin.jsp
+[2024-07-10 21:23:41,911][rest_client.py 46][INFO]: 接口请求的方法>>>POST
+[2024-07-10 21:23:41,911][rest_client.py 52][INFO]: 接口请求的params参数>>>
+{
+  "enterpriseId": 13098,
+  "userName": "guobingjie",
+  "password": "guobingjie"
+}

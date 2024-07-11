@@ -1,0 +1,9 @@
+login_user: #每个冒号后面都要有空格，负责报错
+  person-true:
+    enterpriseId: 13098
+    userName: guobingjie
+    password: guobingjie
+  person-false:
+    enterpriseId: 10005
+    username: guobingjie1
+    password: guobingjie
